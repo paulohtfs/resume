@@ -14,7 +14,7 @@ url: 'http://github.com/paulohtfs'
 #Profile information
 name: Paulo Tada
 tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: paulohtfs@gmail.com
